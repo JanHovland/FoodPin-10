@@ -60,7 +60,7 @@
                                             </subviews>
                                         </stackView>
                                         <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="heart-tick" translatesAutoresizingMaskIntoConstraints="NO" id="r7U-ct-Szu">
-                                            <rect key="frame" x="336" y="34" width="20" height="20"/>
+                                            <rect key="frame" x="336" y="40" width="20" height="20"/>
                                             <constraints>
                                                 <constraint firstAttribute="width" constant="20" id="8LM-CX-vtO"/>
                                                 <constraint firstAttribute="height" constant="20" id="Rwv-dy-06n"/>
@@ -70,7 +70,7 @@
                                     <constraints>
                                         <constraint firstItem="6bg-8k-Xen" firstAttribute="leading" secondItem="fEd-J7-iqD" secondAttribute="leadingMargin" constant="6" id="BId-Ga-eIY"/>
                                         <constraint firstAttribute="trailingMargin" secondItem="r7U-ct-Szu" secondAttribute="trailing" constant="3" id="Fre-z0-3Bg"/>
-                                        <constraint firstItem="r7U-ct-Szu" firstAttribute="top" secondItem="fEd-J7-iqD" secondAttribute="topMargin" constant="23" id="SQH-FS-HqC"/>
+                                        <constraint firstItem="r7U-ct-Szu" firstAttribute="top" secondItem="fEd-J7-iqD" secondAttribute="topMargin" constant="29" id="SQH-FS-HqC"/>
                                         <constraint firstItem="6bg-8k-Xen" firstAttribute="top" secondItem="fEd-J7-iqD" secondAttribute="topMargin" constant="2" id="f8r-rv-NEA"/>
                                         <constraint firstAttribute="bottomMargin" secondItem="6bg-8k-Xen" secondAttribute="bottom" constant="-4" id="mjX-U7-fP4"/>
                                         <constraint firstItem="6bg-8k-Xen" firstAttribute="trailing" secondItem="fEd-J7-iqD" secondAttribute="trailingMargin" id="tKC-v1-wSU"/>
